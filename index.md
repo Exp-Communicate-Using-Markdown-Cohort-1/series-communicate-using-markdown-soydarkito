@@ -9,4 +9,6 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 
 - [x] Oh ma gah!!!!
 - [x] Anita max winn!!
+- [x] Drake
+- [ ] Drake
 - [ ] Drake
